@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kashif Raza</h1>
+<h1 align="center"> </a>  <a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40"></a> 
 <h3 align="center"> Electronics Engineering Student | Embedded Systems Enthusiast | Hardware Design & Development</h3>
 
 
