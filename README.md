@@ -1,5 +1,6 @@
-# Hi 👋, I'm Kashif Raza
-### Electronics Engineering Student | Embedded Systems Enthusiast | Technology and Business Enthusiast
+<h1 align="center">Hi 👋, I'm Kashif Raza</h1>
+<h3 align="center"> Electronics Engineering Student | Embedded Systems Enthusiast | Hardware Design & Development</h3>
+
 
 📍 Lippstadt, Germany  
 📧 kashif.raza@stud.hshl.de  
@@ -54,14 +55,18 @@ I'm an Electronics Engineering student with solid knowledge of software developm
 ---
 
 ### 🤝 Let's Connect
-- [LinkedIn](http://www.linkedin.com/in/kashif-raza-5484531a0)
-- [Xing](https://www.xing.com/profile/Kashif_Raza03278)
-- [GitHub](https://github.com/Rkashif1)
+<a href="https://www.linkedin.com/in/kashif-raza-5484531a0/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
+<a href="https://www.xing.com/profile/Kashif_Raza03278" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white" alt="XING Profile" />
+</a>
+
 
 ---
 
 ### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rkashif1&show_icons=true&count_private=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rkashif1&layout=compact)
 
 ---
