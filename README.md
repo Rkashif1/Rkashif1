@@ -42,15 +42,15 @@ I'm an Electronics Engineering student with solid knowledge of software developm
 
 ### 🏆 University Projects
 
-- **Line Following Robot**  
+- **Line-Following_and_Obstacle-detection_Robot**  
 
-- **IoT Smart Restaurant**  
+- **Smart_Restaurant_System_Using_MQTT**  
 
-- **FPGA-based Parking Monitoring System**  
+- **Parking_Monitoring_System_using_FPGA_Artix-7/PCB Designing**  
 
-- **Autonomous Intersection Management System**  
+- **Autonomous_Intersection_Managment_System**  
 
-- **Sensor-based Safety Device for Cyclists**  
+- **Bicyclist-_safety_solutions-Using_ATmega_128a**  
   
 
 ---
