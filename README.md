@@ -35,7 +35,7 @@ I'm an Electronics Engineering student with solid knowledge of software developm
 ### 💼 Work Experience
 - **Office Administrator**  
   B&Y Landscaping, Pakistan  
-  2019 - 2021  
+  2018 - 2021  
   *Responsibilities included documentation, record-keeping, budgeting, and cost control, enhancing my communication and organizational skills.*
 
 ---
