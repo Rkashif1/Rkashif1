@@ -33,6 +33,12 @@ I'm an Electronics Engineering student with solid knowledge of software developm
 ---
 
 ### 💼 Work Experience
+- **Intern Quality Management**  
+  Infineon, Warstein  
+  2025  
+- **Working student Module Development Support**  
+  Infineon, Warstein  
+  2025  
 - **Office Administrator**  
   B&Y Landscaping, Pakistan  
   2018 - 2021  
